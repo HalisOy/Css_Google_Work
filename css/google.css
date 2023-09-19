@@ -1,0 +1,17 @@
+.googlelogo{
+    display: block;
+    margin: 0 auto;
+}
+.googlebox {
+    text-align: center;
+    background-color: #EEEEEE;
+    width: 90%;
+    margin: 0 auto;
+}
+.box{
+    float: left;
+    background-color: #7EE5DA
+}
+.clear{
+    clear:both;
+}
